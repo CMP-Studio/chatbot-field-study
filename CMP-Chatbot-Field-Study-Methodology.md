@@ -1,19 +1,19 @@
-#Quantitative Inquiry
+# Quantitative Inquiry
 
-##Purpose:
+## Purpose:
 To establish high-level benchmarks in the areas of demographics, museum usage and mobile device usage that will inform decisions during early-stage, pre-prototyping phases of the project.
 
-##Process:
+## Process:
 * Focussed over one or several days
 * Target sample size = 250-300
 * Hand-to-hand interviews
 * Answers logged on device; data pumped into Google Sheet for quick analysis/crunching
 
-##Intro Script:
+## Intro Script:
 
 Hi. My name is X and I work here at the museum. We're beginning a project designed to improve the museum experience and I'm wondering if you might have a few minutes to talk about your experience here today? It will only take 5 minutes.
 
-##Location Mapping
+## Location Mapping
 
 *Museum in which interview occurred*
 
@@ -22,7 +22,7 @@ Hi. My name is X and I work here at the museum. We're beginning a project design
 * CSC
 * AWM
 
-##Baseline Demographics
+## Baseline Demographics
 
 *Indicate your age bracket*
 
@@ -53,7 +53,7 @@ Hi. My name is X and I work here at the museum. We're beginning a project design
 
 * (Free text field)
 	
-##Museum Usage
+## Museum Usage
 
 *Who did you come to the museum with today?*
 
@@ -119,7 +119,7 @@ Hi. My name is X and I work here at the museum. We're beginning a project design
 * Maybe
 * Not likely
 
-##Mobile Device Usage
+## Mobile Device Usage
 
 *Did you bring a mobile device with you today?*
 
@@ -225,7 +225,7 @@ Hi. My name is X and I work here at the museum. We're beginning a project design
 * No
 * What’s a chatbot?
 
-##Closing Question
+## Closing Question
 
 We’re embarking on a project to help improve the visitor experience at Carnegie Museums of Pittsburgh. Would you be willing to help us in the future by answering more questions or participating in a focus group?
 
