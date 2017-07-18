@@ -6,6 +6,7 @@ This repo includes:
 
 * Our methodology
 * Our raw data
+* A basic summary report with charts & graphs
 
 We feel interesting insights have emerged from this research and we've posted some key takeaways over on the Studio site.
 
