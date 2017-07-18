@@ -8,3 +8,7 @@ This repo includes:
 * Our raw data
 
 We feel interesting insights have emerged from this research and we've posted some key takeaways over on the Studio site.
+
+## Acknowledgement
+
+Research, design, development and open-sourcing of the Studio’s chatbot project is supported by the Knight Foundation.
