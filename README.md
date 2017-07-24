@@ -8,7 +8,7 @@ This repo includes:
 * Our raw data
 * A basic summary report with charts & graphs
 
-We feel interesting insights have emerged from this research and we've posted some key takeaways over on the Studio site.
+We feel interesting insights have emerged from this research and [we've posted some key takeaways over on the Studio site](https://studio.carnegiemuseums.org/chatbot-field-study-91fcbb1d4875).
 
 ## Acknowledgement
 
